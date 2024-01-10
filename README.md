@@ -11,3 +11,4 @@ $ pip3 install telethon
 $ python3 magic_heart.py
 ```
 Login in your telegram account and send "magic" in dialog
+
